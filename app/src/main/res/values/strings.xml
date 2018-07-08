@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">IT - Business</string>
+    <string name="sched_up">Изменение задачи</string>
+    <string name="client_up">Изменение заказа</string>
+    <string name="colleag_up">Изм. инф. о сотрудника</string>
+    <string name="min_up">Изменение расхода</string>
+    <string name="plus_up">Изменение дохода</string>
+
+
+    <string name="start_act">Доб. старт. капитала</string>
+    <string name="sched_act">Добавление задачи</string>
+    <string name="client_act">Добавление заказа</string>
+    <string name="colleag_act">Добавление сотрудника</string>
+    <string name="rep_min_act">Список расходов</string>
+    <string name="min_act">Добавление расхода</string>
+    <string name="plus_act">Добавление дохода</string>
+    <string name="rep_plus_act">Список доходов</string>
+
+    <string name="p_colleag_act">Сотрудники</string>
+    <string name="p_client_act">Заказы</string>
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="CategoryList">
+        <item>Не выбрано</item>
+        <item>Покупка оборудования</item>
+        <item>Покупка ПО</item>
+        <item>Зарплата сотрудникам</item>
+        <item>Покупка расходников</item>
+        <item>Оплата услуг</item>
+        <item>Оплата аренды</item>
+        <item>Расходы на транспорт</item>
+        <item>Расходы на рекламу</item>
+        <item>Прочие расходы</item>
+        <item>Отчисления ФСЗН</item>
+        <item>Оплата налогов</item>
+    </string-array>
+
+    <string-array name="CategoryListPlus">
+        <item>Не выбрано</item>
+        <item>Предоплата за проект</item>
+        <item>Конечный расчет за проект</item>
+        <item>Оплата проекта по договору</item>
+        <item>Доход от своих приложений</item>
+        <item>Помощь инвестора</item>
+        <item>Прочие доходы</item>
+    </string-array>
+
+    <string-array name="CategoryListClient">
+        <item>Не выбрано</item>
+        <item>Физическое лицо</item>
+        <item>Юридическое лицо</item>
+    </string-array>
+
+    <string-array name="CategoryListProject">
+        <item>Не выбрано</item>
+        <item>Заказ</item>
+        <item>Собственный проект</item>
+    </string-array>
+
+    <string-array name="CategoryListProjectForFrag">
+        <item>Не выбрано</item>
+        <item>Заказы</item>
+        <item>Собственные</item>
+    </string-array>
+</resources>

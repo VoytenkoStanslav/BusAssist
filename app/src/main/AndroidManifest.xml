@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="by.app.admin.busassist">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_app"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_app"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="by.app.admin.busassist.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="by.app.admin.busassist.ActivityAddAndReport.ActivityAddColleagues"
+                  android:label="@string/colleag_act"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.ActivityAddAndReport.ActivityAddClient"
+                  android:label="@string/client_act"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.ActivityAddAndReport.ActivityAddSchedule"
+                  android:label="@string/sched_act"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.ActivityAddAndReport.ActivityAddPlus"
+                  android:label="@string/plus_act"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.ActivityAddAndReport.ActivityAddMinus"
+                  android:label="@string/min_act"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.ActivityAddAndReport.ActivityReportPlus"
+                  android:label="@string/rep_plus_act"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.ActivityAddAndReport.ActivityReportMinus"
+                  android:label="@string/rep_min_act"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.Update.ScheduleUpdateValue"
+                  android:label="@string/sched_up"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.Update.MinusUpdateValue"
+                  android:label="@string/min_up"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.Update.PlusUpdateValue"
+                  android:label="@string/plus_up"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.Update.ColleaguesUpdateValue"
+                  android:label="@string/colleag_up"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.Update.ClientUpdateValue"
+                  android:label="@string/client_up"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.ActivityAddAndReport.ActivityAddProject"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.ActivityAddAndReport.ActivityAddClientForProject"
+                  android:label="@string/p_client_act"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.ActivityAddAndReport.ActivityAddColleaguesForProject"
+                  android:label="@string/p_colleag_act"
+                  android:screenOrientation="portrait"/>
+        <activity android:name="by.app.admin.busassist.ActivityAddAndReport.ActivityAddStartCapital"
+                  android:screenOrientation="portrait"/>
+
+        <receiver android:name="by.app.admin.busassist.Notifications.AlarmReceiver"/>
+        <service android:name="by.app.admin.busassist.Notifications.AlarmNotificationService"/>
+    </application>
+
+</manifest>

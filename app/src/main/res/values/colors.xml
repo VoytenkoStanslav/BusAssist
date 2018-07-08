@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#11ada3</color>
+    <color name="colorPrimaryDark">#dd286e8c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimar">#7b2aaaa2</color>
+
+    <color name="disable_forground_grey">#a7b5e1</color>
+    <color name="disable_thumb_grey">#dae4aa</color>
+    <color name="enable_thumb_green">#1c8485</color>
+
+    <color name="card_view_bkg">#dddddd</color>
+    <color name="card_view_project">#a26eec</color>
+</resources>

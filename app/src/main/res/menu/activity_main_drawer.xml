@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Main"
+            android:icon="@mipmap/home"
+            android:title="Главная" />
+        <item
+            android:id="@+id/Schedule"
+            android:icon="@mipmap/task"
+            android:title="Список задач" />
+        <item
+            android:id="@+id/Costs"
+            android:icon="@mipmap/balance"
+            android:title="Баланс" />
+        <item
+            android:id="@+id/Colleagues"
+            android:icon="@mipmap/coll"
+            android:title="Сотрудники" />
+        <item
+            android:id="@+id/Partners"
+            android:icon="@mipmap/client"
+            android:title="Заказы" />
+        <item
+            android:id="@+id/Project"
+            android:icon="@mipmap/project"
+            android:title="Проекты" />
+        <item
+            android:id="@+id/GrafMinus"
+            android:icon="@mipmap/graph"
+            android:title="Диаграмма расходов" />
+        <item
+            android:id="@+id/GrafPlus"
+            android:icon="@mipmap/graph"
+            android:title="Диаграмма доходов" />
+        <item
+            android:id="@+id/Calendar"
+            android:icon="@mipmap/calendar"
+            android:title="Календарь" />
+        <item
+            android:id="@+id/Options"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Параметры" />
+    </group>
+
+</menu>

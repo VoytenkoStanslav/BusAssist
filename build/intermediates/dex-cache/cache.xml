@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\e222e9e8330a78962ceb885ab0574d25636d9c2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a77dd97f559e5fdc641380539d31a71f2b0470c">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\pre-dexed\debug\classes_f207191e5785f79a49876591524ad84d12b3ea13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.0\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\pre-dexed\debug\support-annotations-27.1.0_5cb2b30ee39fd14a68f343323b5f4eeec81bf83e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3b375d67daa4b4e535009d998bc541c8c91f0489\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\AndroidStudioProjects\BusAssist\HoloGraphLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0e3ad54178db9953ac5b2047568e4cf29f643534">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\pre-dexed\release\classes_0ffdb2b6e18b1a7bbb63fe81eca98505e9567647.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\8f6222a4e1887d1b9b1bf931204c4c4877797047\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4acee87c1f3801ff4162b2f8d5b3cf999007ee6f">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\pre-dexed\debug\classes_8c6a9989f10130a5c53c4e5412136d8abf2227e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\170119dec8db97ae2271381891343cbabf9f6beb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0d6df4057d1620a785f5bd2e69dd0d7866f3613c">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\pre-dexed\debug\classes_513dc82493c11474eaeaf87c75d18ffb2bb0018a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\314986ede40274234709921fb36864a137e73eb5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\pre-dexed\debug\classes_c8dfecce821c8296bda7430a3de31942fa6beeb6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cb8a2d6c91a0bb0e57fd963b5c22bba5b3bda467">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_204669127cdcc9faaee15373a7af9bf4cf2ad129\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\e0b9f56d0b927392be935ec395380397f91a66cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b8dd77dd9462bc957cbc901cbe9d6c06047f8216">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\pre-dexed\debug\classes_5ae6c333637abb3b12355fb12cacfc412e08f18e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\49e3136d89d78fb0a1b2183e57f6280cc58da4a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="62c85d61c1ecd732dfe0c57e050d179ed85588bf">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\pre-dexed\debug\classes_da9cc64891dfe3563f574b48974369fe4d021f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.14.0\102d7be47241d781ef95f1581d414b0943053130\okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\pre-dexed\debug\okio-1.14.0_fdae906fc1e727f83349389d6a6adc3170f1a153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\092a5e95cee08d8cda7c7ae769bd53ac1c2ded6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f73f6af8b32299bb364178188dcfe50379ed0da7">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\pre-dexed\debug\classes_c05e88dbe7a8878d790792a5e954d94125a85ae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.10.0\7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e\okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\pre-dexed\debug\okhttp-3.10.0_ce289566f23ded0ccab32412afb93421022806e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\98f554ad8123884b4040ebfbe49c37850455ffd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e7404d217654969776b5fa566df9a7f2c1b1c337">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BusAssist\app\build\intermediates\pre-dexed\debug\classes_aabe82bc7cbbe0ec7cea1e597dd710c2a1225e57.jar" />
+    </item>
+
+</items>
